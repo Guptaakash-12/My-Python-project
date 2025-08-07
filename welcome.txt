@@ -1,1 +1,2 @@
 welcome to python programming with git and github
+We will work hard and try our best to be good in every aspect of life
